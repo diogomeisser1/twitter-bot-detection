@@ -20,9 +20,8 @@ You can obtain the original data from:
 - **Cresci et al. (2017)** — [Social Spambot Repository](https://botometer.osome.iu.edu/bot-repository/datasets.html)
 
 We used the following folders:
-- `social_spambots_1`
-- `genuine_accounts
-
+- `social_spambots_1.csv.zip - tweets.csv and users.csv
+- `genuine_accounts.csv.zip - tweets.csv and users.csv
 
 ---
 
