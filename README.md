@@ -2,7 +2,7 @@
 
 This project uses machine learning models in R to detect social spambots on Twitter based on user- and tweet-level metadata. We focus specifically on bot activity surrounding Italian political discourse using the **Cresci 2017 Social Spambot dataset**.
 
-📄 **Full Report**: [`final_report.pdf`](./final_report.pdf)  
+📄 **Full Report**: [`Final_Report.pdf`](./Final_Report.pdf)  
 👨‍💻 Developed by Diogo Meisser, Daniel Mardani, and Alexis Navarro  
 📚 Built for STAT 654: Statistical Computing with R and Python
 
@@ -113,4 +113,4 @@ Use `install.packages()` if prompted.
 
 ---
 
-> **Note**: See [`final_report.pdf`](./final_report.pdf) for complete technical details, plots, and model justifications.
+> **Note**: See [`Final_Report.pdf`](./Final_Report.pdf) for complete technical details, plots, and model justifications.
