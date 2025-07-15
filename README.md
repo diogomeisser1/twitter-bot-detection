@@ -89,13 +89,13 @@ Use `install.packages()` if prompted.
 | Random Forest | **98.3%**| **99.6%**         | 96.8%               |
 | k-NN (k = 5)  | 97.6%    | 99.4%             | 96.1%               |
 
-✅ **Random Forest** performed best, especially in detecting bots.
+✅ **Random Forest** performed best, especially in detecting bots. However, all model results are almost indistinguishable 
 
 ---
 
 ## 👥 Authors
 
-- **Diogo Meisser** — Model development, coding, report writing  
+- **Diogo Meisser** — Model development, coding, report writing, predictor engineering 
 - **Daniel Mardani** — Feature engineering, model tuning, report writing  
 - **Alexis Navarro** — Research, presentation design, report writing
 
